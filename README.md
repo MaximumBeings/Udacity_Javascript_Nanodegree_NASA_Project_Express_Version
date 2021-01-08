@@ -1,6 +1,6 @@
 # Udacity_Javascript_Nanodegree_NASA_Project_Express_Version
 
-1. Log into the subdirectory server and run "npm start" or run "node index.js"
+1. Navigate into the subdirectory *server* and run "npm start" or run "node index.js"
 
 2. The following packages have been pre-installed in package.json but can be reinstalled if needed as follows:
 
