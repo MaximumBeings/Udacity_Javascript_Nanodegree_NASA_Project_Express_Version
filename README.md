@@ -36,5 +36,6 @@ The functional JavaScript course project will be to build a dashboard for the pa
 (c) Get Programming with Javascript - Manning Books
 (d) Get Programming with Node.JS - Mananing Books
 (e) 20 Projects in Javascript - Udemy.
+(f) Bootstrap Carousel Template - downloaded from https://getbootstrap.com/docs/5.0/examples/carousel/
 
 12. The source of the images - is NASA's Image API Website
